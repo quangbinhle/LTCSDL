@@ -1,0 +1,9 @@
+D:\le quang binh\2018-2019\Lap Trinh CSDL\Lap3\TestCrytalReport\CrystalReportsApplication1\bin\Debug\CrystalReportsApplication1.exe.config
+D:\le quang binh\2018-2019\Lap Trinh CSDL\Lap3\TestCrytalReport\CrystalReportsApplication1\bin\Debug\CrystalReportsApplication1.exe
+D:\le quang binh\2018-2019\Lap Trinh CSDL\Lap3\TestCrytalReport\CrystalReportsApplication1\bin\Debug\CrystalReportsApplication1.pdb
+D:\le quang binh\2018-2019\Lap Trinh CSDL\Lap3\TestCrytalReport\CrystalReportsApplication1\obj\Debug\CrystalReportsApplication1.csprojResolveAssemblyReference.cache
+D:\le quang binh\2018-2019\Lap Trinh CSDL\Lap3\TestCrytalReport\CrystalReportsApplication1\obj\Debug\CrystalReportsApplication1.Form1.resources
+D:\le quang binh\2018-2019\Lap Trinh CSDL\Lap3\TestCrytalReport\CrystalReportsApplication1\obj\Debug\CrystalReportsApplication1.Properties.Resources.resources
+D:\le quang binh\2018-2019\Lap Trinh CSDL\Lap3\TestCrytalReport\CrystalReportsApplication1\obj\Debug\CrystalReportsApplication1.csproj.GenerateResource.Cache
+D:\le quang binh\2018-2019\Lap Trinh CSDL\Lap3\TestCrytalReport\CrystalReportsApplication1\obj\Debug\CrystalReportsApplication1.exe
+D:\le quang binh\2018-2019\Lap Trinh CSDL\Lap3\TestCrytalReport\CrystalReportsApplication1\obj\Debug\CrystalReportsApplication1.pdb
